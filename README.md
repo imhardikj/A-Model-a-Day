@@ -1,2 +1,2 @@
-# scaling-engine
+# A Model a Day
 Various Machine learning  algorithms using Scikit Learn
